@@ -8,7 +8,7 @@ const CheckCircle = styled.div`
     border-radius: 16px;
     border: 1px solid #ced4da;
     font-size: 24px;
-    display: felx;
+    display: flex;
     align-items: center;
     justify-content: center;
     margin-right: 20px;
